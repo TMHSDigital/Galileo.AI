@@ -1,2 +1,2 @@
 # Galileo.AI
-AI UI designed
+AI UI designer
